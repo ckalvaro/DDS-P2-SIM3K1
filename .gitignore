@@ -1,0 +1,19 @@
+# Backend
+dds-backend-2025/node_modules/
+dds-backend-2025/.env
+dds-backend-2025/npm-debug.log*
+
+# Frontend
+dds-fronted-2025/node_modules/
+dds-fronted-2025/.env
+dds-fronted-2025/dist/
+dds-fronted-2025/.vite/
+dds-fronted-2025/npm-debug.log*
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
